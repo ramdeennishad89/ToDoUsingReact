@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding:0%;
+}
+div{
+  background-color: aqua;
+  color: black;
+  border: 2px;
+  width: 200px;
+}
+buttton{
+  color: blue;
+  background-color: red;
+}
+
+.add-btn{
+  background-color: greenyellow;
+  color:blue
+}
+.delete-btn{
+  background-color: red;
+}
